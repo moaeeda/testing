@@ -3,13 +3,18 @@
 //hello
 //new comment
 //testing comment
+<<<<<<< HEAD
+$d = 2;
+$c = 5;
+$e = 6;
+=======
 
 $d = 2;
 $c = 5;
 $a = 3;
 $b = 2;
-$e = 7;
 
+>>>>>>> 5759d7124432a56b272c1a209d686ee4311facb8
 $version = apache_get_version(); 
 echo "$version\n"; 
 phpinfo();
