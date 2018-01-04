@@ -3,7 +3,7 @@
 //hello
 //new comment
 //testing comment
-$a = 2;
+$a = 3;
 
 $version = apache_get_version(); 
 echo "$version\n"; 
