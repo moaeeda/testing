@@ -11,6 +11,7 @@ $b = 2;
 $e = 7;
 $f = 8;
 $h = 10;
+$i = 11;
 
 
 $version = apache_get_version(); 
